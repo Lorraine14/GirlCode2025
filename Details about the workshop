@@ -1,0 +1,13 @@
+Entelect and GirlCode hosted a highly engaging workshop that focused on modern web development practices. 
+The session was practical in nature and provided us with hands-on experience in setting up and working with some of the most relevant tools in the industry today.
+
+The workshop began with an introduction to React, one of the most popular JavaScript libraries for building user interfaces. 
+They explained its purpose, real-world applications and why it has become a standard choice for developing scalable front-end applications. 
+We were guided step by step through the process of creating a React application from scratch—starting with the installation of required technologies such as Node.js and npm.
+Once the environment was set up, the instructors demonstrated how to generate a new React project, 
+explaining the structure of the application folder and the role of key files such as index.js and App.js. 
+They also introduced basic concepts such as components, props and state, ensuring that even beginners could follow along with confidence.
+
+In addition to front-end development, the workshop placed strong emphasis on Git version control, a crucial skill for collaboration and project management. 
+We were provided a thorough walkthrough of Git basics, including initializing a repository, staging and committing changes, branching, and merging. 
+We also learned how to connect our local repositories to a remote one (e.g., GitHub), which is essential for teamwork and code sharing.
